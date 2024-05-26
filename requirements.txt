@@ -1,0 +1,9 @@
+streamlit
+pickle
+regex
+nltk
+numpy
+pandas
+scikit-learn
+matplotlib
+wordcloud
